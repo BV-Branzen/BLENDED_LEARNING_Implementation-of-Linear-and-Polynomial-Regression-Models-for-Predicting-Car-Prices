@@ -92,6 +92,9 @@ plt.show()
 ## Output:
 
 LINEAR VS POLYNOMIAL REGRESSION
+<img width="736" height="482" alt="image" src="https://github.com/user-attachments/assets/7ec8edd3-5b4b-414b-a7a4-7512d158698c" />
+<img width="292" height="135" alt="image" src="https://github.com/user-attachments/assets/1740b472-d0c0-4a1a-accd-3c95ca35d959" />
+<img width="267" height="106" alt="image" src="https://github.com/user-attachments/assets/9921bd08-f73f-4ba1-82bf-bd78b9389b68" />
 <img width="868" height="468" alt="image" src="https://github.com/user-attachments/assets/e07ebc03-c640-45e8-a775-8fb6703b7174" />
 
 ## Result:
